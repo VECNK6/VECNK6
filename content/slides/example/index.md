@@ -57,7 +57,9 @@ if porridge == "blueberry":
 ---
 
 ## Math
-
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
 
 
 ---
