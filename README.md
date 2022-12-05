@@ -1,6 +1,6 @@
 # [Visual Exploration of Chain of Narrators in the Kutub Al-Sittah Research](https://vecnk6.github.io/)
 
-[![Screenshot](./hadith.jpg)](https://vecnk6.github.io/images/hadith.jpg)
+[![Screenshot](./drj.jpg)](https://vecnk6.github.io/images/drj.jpg)
 
 The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
